@@ -1,4 +1,4 @@
-### Hi there 👋, Hello and welcome to my GitHub!👋
+### Hello and welcome to my GitHub!👋
 I am a First Year Student in VIT Vellore studying B.Tech IT.
 I am an aspiring developer and am very interested in data analytics and representation.
 
