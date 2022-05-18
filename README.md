@@ -6,8 +6,9 @@ Skills: | Python | C++ | C | HTML |
 
 Frameworks: 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ManavMuthanna)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/manavmuthanna/)  
+Contact me on
+Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ManavMuthanna)  
+Instagram: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/manavmuthanna/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavMuthanna)](https://github.com/anuraghazra/github-readme-stats)
 
