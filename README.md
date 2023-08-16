@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Second Year Student in VIT Vellore studying B.Tech IT.<br>I am an aspiring developer and am very interested in working on software development, ML, data science and data analytics projects!
+I am a Third Year Student in VIT Vellore studying B.Tech IT.<br>I am an aspiring developer and am very interested in working on software development, ML, data science and data analytics projects!
 
 
 ## 🌐 Socials:
