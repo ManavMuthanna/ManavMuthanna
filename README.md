@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Final Year Student in VIT Vellore studying B.Tech IT.<br>I am an aspiring developer and am very interested in working on software development, ML, data science and data analytics projects!
-
+I'm a software developer and am very interested in working on software development especially backend related, AI, ML, data science and data analytics projects!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manav-muthanna-6ba5ab216) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muthannamanav2003) 
